@@ -2,4 +2,4 @@ fastapi
 uvicorn
 os
 dotenv
-cors middleware
+corsmiddleware
